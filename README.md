@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-I will be posting blogs on my GitHub pages where I solve various mathemtical problem using R!
+I will be posting blogs on my GitHub pages where I solve various mathematical problems using R!
 
 My fist blog: <a href="https://roselynmainali.github.io/Monty-Hall-Problem.html">how to solve Monty Hall problem with R</a>
 
