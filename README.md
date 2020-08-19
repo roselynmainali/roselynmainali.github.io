@@ -4,9 +4,7 @@ I will be posting blogs on my GitHub pages where I solve various mathemtical pro
 
 My fist blog: <a href="https://roselynmainali.github.io/Monty-Hall-Problem.html">how to solve Monty Hall problem with R</a>
 
-<p>I'm creating a link to
-<a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>.
-</p>
+
 
 ### Notes about edits
 You can use the [editor on GitHub](https://github.com/roselynmainali/roselynmainali.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
