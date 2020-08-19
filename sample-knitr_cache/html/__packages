@@ -1,0 +1,10 @@
+base
+magrittr
+plyr
+ggplot2
+ggthemes
+knitr
+gridExtra
+Matrix
+lme4
+broom
